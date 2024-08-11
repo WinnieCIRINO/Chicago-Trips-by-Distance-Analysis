@@ -17,3 +17,6 @@ SELECT * FROM [Trips_by_Distance 2022]
 
 UNION ALL
 SELECT * FROM [Trips_by_Distance 2023]
+
+- **NB**: 
+- The new table Trips_Combined dataset contains 22 columns and 5,225,384 rows
