@@ -7,9 +7,13 @@ The dataset includes information on trips taken within Chicago, detailing the di
 ## Analysis
 
 The analysis includes the following aspects:
+
 **Total Trips by Month**: Analysis of total number of trips recorded each month.
-**Population Staying Home vs Not Staying Home**: Examination of the population trends staying home or being out. 
+
+**Population Staying Home vs Not Staying Home**: Examination of the population trends staying home or being out.
+
 **Total Trips in Miles**: Aggregation of the total distance travelled in all trips. 
+
 **Population trends by Season, Month and Year**: Breakdown of population staying home or not by different time periods (seasonal, monthly, yearly)
 
 ## Key Metrics
